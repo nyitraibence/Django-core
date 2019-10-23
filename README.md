@@ -1,6 +1,7 @@
 # Django core
 summary
-* * *
+## Usage:
+
 ### Gulp workflow
 how to use
 ### .env
