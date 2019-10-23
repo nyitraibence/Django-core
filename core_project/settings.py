@@ -42,7 +42,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'djangoflow.urls'
+ROOT_URLCONF = 'core_project.urls'
 
 TEMPLATES = [
     {
@@ -60,7 +60,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'djangoflow.wsgi.application'
+WSGI_APPLICATION = 'core_project.wsgi.application'
 
 DATABASES = {
     'default': {
