@@ -1,6 +1,6 @@
 [![N|Solid](assets/img/django_logo_60px.png)](https://docs.djangoproject.com/en/2.2/)
 # Django core
-This is a pre built django template to make project setup faster. It includes an environment file based configuration, a ready built template and static file structure, a gulp workflow for frontend works, and a blank core app.
+This is a pre built django project aiming to make project setup faster. It includes an environment file based configuration, a ready built template and static file structure, a gulp workflow for frontend works, and an empty *core* app.
 ## Usage:
 
 
