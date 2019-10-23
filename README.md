@@ -23,6 +23,6 @@ This gulp workflow is meant to make your template building process faster and ea
 
 You are ready to work!
 
-version: 1.1
+Version: 1.1
 
 For help, contact: nyitrai.done@gmail.com
