@@ -1,2 +1,12 @@
-# Django-core
-A ready-to-use django project template - details in readme.md
+# Django core
+info
+* * *
+## Gulp workflow
+info
+* * *
+## .env
+info
+* * *
+## requirements.txt
+info
+* * *
