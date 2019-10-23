@@ -1,12 +1,10 @@
 # Django core
-info
+summary
 * * *
 ## Gulp workflow
-info
-* * *
+how to use
 ## .env
-info
-* * *
+how to use
 ## requirements.txt
-info
-* * *
+how to use
+
